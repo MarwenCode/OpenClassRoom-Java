@@ -3,6 +3,9 @@ import java.util.Map;
 
 public class Array {
 
+
+  
+
     public static void main(String[] args) {
 
         //first example
@@ -48,5 +51,12 @@ public class Array {
       
         
     }
+
+
+
+
+ 
     
-}
+};
+
+
